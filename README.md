@@ -10,11 +10,6 @@ Caso não possua o Git instalado, baixe [aqui](https://git-scm.com/downloads).
 
 ## Instalação do projeto
 
-Clone o projeto:
-```bash
-git clone https://github.com/LucasViana1/hero-list.git
-```
-
 Acesse a pasta do projeto:
 ```bash
 cd hero-list
@@ -80,7 +75,7 @@ O projeto foi implantado na [Netlify](https://www.netlify.com/), antes do build 
 npm run env
 ```
 
-Link público para acesso da aplicação: [https://hero-list.netlify.app/](https://hero-list.netlify.app/)
+Link público para acesso da aplicação: 
 
 ## Resumo estrutura de pastas e arquivos
 * public: arquivos públicos, como `index.html` usado na aplicação.
